@@ -1,0 +1,82 @@
+{
+  "destinations": [
+    {
+      "city": "Coimbatore",
+      "state": "Tamil Nadu",
+      "popular_places": [
+        "Marudamalai Temple",
+        "Isha Yoga Center and Adiyogi Statue",
+        "Siruvani Waterfalls",
+        "VOC Park and Zoo",
+        "Gedee Car Museum",
+        "Kovai Kondattam",
+        "Perur Pateeswarar Temple",
+        "Brookefields Mall",
+        "Black Thunder Theme Park",
+        "RS Puram Shopping Street"
+      ],
+      "sample_itinerary": {
+        "Day 1": [
+          "Morning: Visit Marudamalai Temple",
+          "Afternoon: Explore VOC Park and Zoo",
+          "Evening: Shopping at Brookefields Mall"
+        ],
+        "Day 2": [
+          "Morning: Visit Isha Yoga Center and Adiyogi Statue",
+          "Afternoon: Enjoy Siruvani Waterfalls",
+          "Evening: Relax at RS Puram market"
+        ],
+        "Day 3": [
+          "Morning: Visit Gedee Car Museum",
+          "Afternoon: Fun at Kovai Kondattam",
+          "Evening: Visit Perur Pateeswarar Temple"
+        ]
+      },
+      "best_time": "October to March",
+      "famous_food": [
+        "Kongunadu cuisine",
+        "Dosa",
+        "Filter coffee"
+      ]
+    },
+    {
+      "city": "Goa",
+      "state": "Goa",
+      "popular_places": [
+        "Baga Beach",
+        "Calangute Beach",
+        "Anjuna Beach",
+        "Dudhsagar Waterfalls",
+        "Basilica of Bom Jesus",
+        "Fort Aguada",
+        "Chapora Fort",
+        "Candolim Beach",
+        "Palolem Beach",
+        "Goa Cruise"
+      ],
+      "sample_itinerary": {
+        "Day 1": [
+          "Morning: Relax at Calangute Beach",
+          "Afternoon: Visit Fort Aguada",
+          "Evening: Enjoy Baga Beach nightlife"
+        ],
+        "Day 2": [
+          "Morning: Visit Basilica of Bom Jesus",
+          "Afternoon: Dudhsagar Waterfalls trip",
+          "Evening: Explore Anjuna Beach market"
+        ],
+        "Day 3": [
+          "Morning: Visit Chapora Fort",
+          "Afternoon: Relax at Palolem Beach",
+          "Evening: Dinner cruise on Mandovi River"
+        ]
+      },
+      "best_time": "November to February",
+      "famous_food": [
+        "Goan fish curry",
+        "Prawn balchao",
+        "Bebinca dessert"
+      ]
+    }
+  ]
+}
