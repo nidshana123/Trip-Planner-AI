@@ -30,6 +30,7 @@ import MapView from "./pages/MapView";
 import Services from "./pages/Services";
 import Itineraries from "./pages/Itineraries";
 import Navbar from "./components/Navbar";
+import LocalServices from "./pages/LocalServices";
 
 function App() {
   return (
@@ -40,7 +41,7 @@ function App() {
         <Route path="/" element={<Home />} />
         <Route path="/planner" element={<Planner />} />
         <Route path="/map" element={<MapView />} />
-        <Route path="/services" element={<Services />} />
+        <Route path="/services" element={<LocalServices />} />
         <Route path="/itineraries" element={<Itineraries />} />
       </Routes>
     </>

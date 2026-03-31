@@ -1,0 +1,256 @@
+[
+{
+"name":"Taj Exotica Resort & Spa",
+"category":"hotel",
+"location":"Goa",
+"rating":4.7,
+"openTime":"24 Hours",
+"openDays":"All Days",
+"description":"Luxury beachfront resort in South Goa",
+"image":"https://images.unsplash.com/photo-1566073771259-6a8506099945"
+},
+
+{
+"name":"ITC Grand Goa Resort & Spa",
+"category":"hotel",
+"location":"Goa",
+"rating":4.7,
+"openTime":"24 Hours",
+"openDays":"All Days",
+"description":"Premium luxury resort near Arossim Beach",
+"image":"https://images.unsplash.com/photo-1551882547-ff40c63fe5fa"
+},
+
+{
+"name":"The Leela Goa",
+"category":"hotel",
+"location":"Goa",
+"rating":4.8,
+"openTime":"24 Hours",
+"openDays":"All Days",
+"description":"Luxury lagoon style resort near Mobor Beach",
+"image":"https://images.unsplash.com/photo-1582719508461-905c673771fd"
+},
+
+{
+"name":"Taj Fort Aguada Resort & Spa",
+"category":"hotel",
+"location":"Goa",
+"rating":4.6,
+"openTime":"24 Hours",
+"openDays":"All Days",
+"description":"Historic luxury resort overlooking Arabian Sea",
+"image":"https://images.unsplash.com/photo-1578683010236-d716f9a3f461"
+},
+
+{
+"name":"Novotel Goa Resort & Spa",
+"category":"hotel",
+"location":"Goa",
+"rating":4.4,
+"openTime":"24 Hours",
+"openDays":"All Days",
+"description":"Modern resort near Candolim Beach",
+"image":"https://images.unsplash.com/photo-1542314831-068cd1dbfeeb"
+},
+
+{
+"name":"Holiday Inn Resort Goa",
+"category":"hotel",
+"location":"Goa",
+"rating":4.5,
+"openTime":"24 Hours",
+"openDays":"All Days",
+"description":"Beachfront resort located in Cavelossim",
+"image":"https://images.unsplash.com/photo-1564501049412-61c2a3083791"
+},
+
+{
+"name":"Radisson Blu Resort Goa",
+"category":"hotel",
+"location":"Goa",
+"rating":4.4,
+"openTime":"24 Hours",
+"openDays":"All Days",
+"description":"Mediterranean style resort near Cavelossim Beach",
+"image":"https://images.unsplash.com/photo-1520250497591-112f2f40a3f4"
+}
+,
+
+{
+"name":"Goa Medical College & Hospital",
+"category":"hospital",
+"location":"Goa",
+"rating":4.3,
+"openDays":"All Days",
+"openTime":"24 Hours",
+"description":"Largest government medical college and hospital in Goa located in Bambolim",
+"image":"https://images.unsplash.com/photo-1586773860418-d37222d8fce3"
+},
+
+{
+"name":"Manipal Hospitals Goa",
+"category":"hospital",
+"location":"Goa",
+"rating":4.5,
+"openDays":"All Days",
+"openTime":"24 Hours",
+"description":"Multi-speciality private hospital in Dona Paula",
+"image":"https://images.unsplash.com/photo-1576091160399-112ba8d25d1d"
+},
+
+{
+"name":"Healthway Hospitals",
+"category":"hospital",
+"location":"Goa",
+"rating":4.4,
+"openDays":"All Days",
+"openTime":"24 Hours",
+"description":"Modern multi-speciality hospital in Old Goa",
+"image":"https://images.unsplash.com/photo-1538108149393-fbbd81895907"
+},
+
+{
+"name":"Vision Multispeciality Hospital",
+"category":"hospital",
+"location":"Goa",
+"rating":4.2,
+"openDays":"All Days",
+"openTime":"24 Hours",
+"description":"Advanced healthcare hospital in Margao",
+"image":"https://images.unsplash.com/photo-1579154204601-01588f351e67"
+},
+
+{
+"name":"Victor Hospital",
+"category":"hospital",
+"location":"Goa",
+"rating":4.3,
+"openDays":"All Days",
+"openTime":"24 Hours",
+"description":"Private multi-speciality hospital in Margao",
+"image":"https://images.unsplash.com/photo-1579684385127-1ef15d508118"
+},
+
+{
+"name":"SMRC Hospital",
+"category":"hospital",
+"location":"Goa",
+"rating":4.1,
+"openDays":"All Days",
+"openTime":"24 Hours",
+"description":"Super speciality hospital located in Bambolim",
+"image":"https://images.unsplash.com/photo-1505751172876-fa1923c5c528"
+},
+
+{
+"name":"Sub District Hospital Ponda",
+"category":"hospital",
+"location":"Goa",
+"rating":4.0,
+"openDays":"All Days",
+"openTime":"24 Hours",
+"description":"Government hospital serving Ponda region",
+"image":"https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d"
+},
+
+{
+"name":"Hospicio Hospital Margao",
+"category":"hospital",
+"location":"Goa",
+"rating":4.1,
+"openDays":"All Days",
+"openTime":"24 Hours",
+"description":"Historic government hospital serving South Goa",
+"image":"https://images.unsplash.com/photo-1579154204601-01588f351e67"
+}
+
+,
+{
+"name":"Ravi Naik",
+"category":"guide",
+"location":"Goa",
+"rating":4.4,
+"openDays":"All Days",
+"openTime":"9AM-6PM",
+"description":"Local sightseeing guide in Panaji and Old Goa",
+"image":"https://randomuser.me/api/portraits/men/32.jpg"
+},
+
+{
+"name":"Suresh Fernandes",
+"category":"guide",
+"location":"Goa",
+"rating":4.3,
+"openDays":"All Days",
+"openTime":"9AM-6PM",
+"description":"Beach tour guide for Baga and Calangute",
+"image":"https://randomuser.me/api/portraits/men/45.jpg"
+},
+
+{
+"name":"Joseph D'Souza",
+"category":"guide",
+"location":"Goa",
+"rating":4.5,
+"openDays":"All Days",
+"openTime":"9AM-6PM",
+"description":"Heritage and church tour guide in Old Goa",
+"image":"https://randomuser.me/api/portraits/men/51.jpg"
+},
+
+{
+"name":"Anthony Rodrigues",
+"category":"guide",
+"location":"Goa",
+"rating":4.2,
+"openDays":"All Days",
+"openTime":"9AM-6PM",
+"description":"Local culture and food tour guide",
+"image":"https://randomuser.me/api/portraits/men/63.jpg"
+},
+
+{
+"name":"Prakash Shetty",
+"category":"guide",
+"location":"Goa",
+"rating":4.3,
+"openDays":"All Days",
+"openTime":"9AM-6PM",
+"description":"Waterfall and nature trekking guide",
+"image":"https://randomuser.me/api/portraits/men/75.jpg"
+},
+
+{
+"name":"Manoj Kamat",
+"category":"guide",
+"location":"Goa",
+"rating":4.1,
+"openDays":"All Days",
+"openTime":"9AM-6PM",
+"description":"City explorer guide around Panaji",
+"image":"https://randomuser.me/api/portraits/men/81.jpg"
+},
+
+{
+"name":"Santosh Naik",
+"category":"guide",
+"location":"Goa",
+"rating":4.2,
+"openDays":"All Days",
+"openTime":"9AM-6PM",
+"description":"Village and heritage walk guide",
+"image":"https://randomuser.me/api/portraits/men/28.jpg"
+},
+
+{
+"name":"Ajay Sawant",
+"category":"guide",
+"location":"Goa",
+"rating":4.4,
+"openDays":"All Days",
+"openTime":"9AM-6PM",
+"description":"Backwater and local market tour guide",
+"image":"https://randomuser.me/api/portraits/men/36.jpg"
+}
+]
